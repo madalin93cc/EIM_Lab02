@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/layout/popup_window_authentication_success.xml",
+        "source": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/src/main/res/layout/popup_window_authentication_success.xml"
+    },
+    {
+        "merged": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/layout/popup_window_authentication_fail.xml",
+        "source": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/src/main/res/layout/popup_window_authentication_fail.xml"
+    },
+    {
+        "merged": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/layout/activity_lifecycle_monitor.xml",
+        "source": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/src/main/res/layout/activity_lifecycle_monitor.xml"
+    }
+]

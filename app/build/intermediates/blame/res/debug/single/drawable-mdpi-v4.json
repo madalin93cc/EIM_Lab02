@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_authentication_fail.png",
+        "source": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/src/main/res/drawable-mdpi/ic_authentication_fail.png"
+    },
+    {
+        "merged": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_authentication_success.png",
+        "source": "/home/student/Desktop/EIM-Lab2/ActivityLifecycleMonitor/app/src/main/res/drawable-mdpi/ic_authentication_success.png"
+    }
+]
